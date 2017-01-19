@@ -39,7 +39,7 @@ Basically any PHP programmer would have liked to create any desktop application.
    2. Create a new folder and name it MyApp
    3. Unzip the content of `rkphpdsk` Inside
 
-Next, Double click on `rlphpdsk.exe` file to run it, you'll see default application when i was created . 
+Next, Double click on `rkphpdsk.exe` file to run it, you'll see default application when i was created . 
 
 #Now let's us add our own application
 
