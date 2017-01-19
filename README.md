@@ -17,3 +17,5 @@ In a certain sense phpdesktop acts as a PHP to EXE compiler. It embeds a web bro
 
 - PHP for desktop -go to the [Download](https://github.com/raselkhancse/rkphpdsk/archive/master.zip)
 - Download Inno Software -go to the [Download](http://www.jrsoftware.org/download.php/is.exe)
+
+:+1:
