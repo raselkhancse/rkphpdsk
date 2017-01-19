@@ -1,0 +1,1519 @@
+- 20:17:02.031 INFO: --------------------------------------------------------
+- 20:17:02.047 INFO: Started application
+- 20:17:02.047 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 20:17:02.047 INFO: Log level = DEBUG4
+- 20:17:02.047 INFO: Starting Mongoose 3.9c web server
+- 20:17:02.047 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 20:17:02.047 INFO: Index files: index.html,index.php
+- 20:17:02.047 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 20:17:02.047 INFO: CGI pattern: **.php$
+- 20:17:02.047 INFO: Hide files patterns: 
+- 20:17:02.047 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:17:02.062 INFO: Web server url: http://127.0.0.1:3035/
+- 20:17:02.078 INFO: remote_debugging_port = 51858
+- 20:17:02.078 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=51858
+- 20:17:02.109 DEBUG: App::OnContextInitialized()
+- 20:17:02.109 DEBUG: Window max width/height = 1286/680
+- 20:17:02.109 DEBUG: GetBrowserWindow(): not found, hwnd = 722618
+- 20:17:02.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:17:02.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:17:02.125 DEBUG: StoreBrowserWindow(): hwnd = 722618
+- 20:17:02.140 DEBUG: ClientHandler::OnAfterCreated()
+- 20:17:02.140 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:17:02.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:17:03.015 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5872.1.1736880631\376604646" /prefetch:673131151
+- 20:17:03.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=gpu-process --channel="5872.0.1131870968\468847364" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 20:17:03.078 DEBUG: OnBrowserCreated()
+- 20:17:05.026 INFO: GET 200 /
+- 20:17:05.042 INFO: GET 200 /style.css
+- 20:17:05.122 DEBUG: OnContextCreated()
+- 20:17:05.089 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3035/
+- 20:17:32.000 DEBUG: Command line string for the utility process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=utility --channel="5872.2.1504321470\1906645778" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:-645351001
+- 20:17:34.667 DEBUG: OnBeforeClose() hwnd=2163966
+- 20:17:34.667 DEBUG: RemoveBrowserWindow(): hwnd = 2163966
+- 20:17:34.667 DEBUG: GetBrowserWindow(): not found, hwnd = 2163966
+- 20:17:34.667 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:22:35.046 INFO: --------------------------------------------------------
+- 20:22:35.046 INFO: Started application
+- 20:22:35.046 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 20:22:35.046 INFO: Log level = DEBUG4
+- 20:22:35.046 INFO: Starting Mongoose 3.9c web server
+- 20:22:35.046 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 20:22:35.046 INFO: Index files: index.html,index.php
+- 20:22:35.046 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 20:22:35.046 INFO: CGI pattern: **.php$
+- 20:22:35.046 INFO: Hide files patterns: 
+- 20:22:35.062 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:22:35.078 INFO: Web server url: http://127.0.0.1:3071/
+- 20:22:35.078 INFO: remote_debugging_port = 58090
+- 20:22:35.078 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=58090
+- 20:22:35.109 DEBUG: App::OnContextInitialized()
+- 20:22:35.109 DEBUG: Window max width/height = 1286/680
+- 20:22:35.109 DEBUG: GetBrowserWindow(): not found, hwnd = 1443530
+- 20:22:35.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:22:35.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:22:35.109 DEBUG: StoreBrowserWindow(): hwnd = 1443530
+- 20:22:35.140 DEBUG: ClientHandler::OnAfterCreated()
+- 20:22:35.140 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:22:35.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=gpu-process --channel="6200.0.470304777\1590332769" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 20:22:35.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:22:35.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6200.1.1481011619\1302765623" /prefetch:673131151
+- 20:22:35.031 DEBUG: OnBrowserCreated()
+- 20:22:35.312 INFO: GET 200 /
+- 20:22:35.327 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3071/
+- 20:22:37.776 DEBUG: WM_DESTROY
+- 20:22:37.776 DEBUG: RemoveBrowserWindow(): hwnd = 1443530
+- 20:22:37.776 INFO: Stopping Mongoose web server
+- 20:22:37.776 DEBUG: Mongoose webserver stopped immediately
+- 20:22:37.792 DEBUG: OnBeforeClose() hwnd=1115870
+- 20:22:37.792 DEBUG: RemoveBrowserWindow(): hwnd = 1115870
+- 20:22:37.792 DEBUG: GetBrowserWindow(): not found, hwnd = 1115870
+- 20:22:37.792 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:22:37.792 DEBUG: Calling CefQuitMessageLoop()
+- 20:22:37.605 DEBUG: OnBrowserDestroyed()
+- 20:22:37.823 INFO: Ended application
+- 20:22:37.823 INFO: --------------------------------------------------------
+- 21:07:50.016 INFO: --------------------------------------------------------
+- 21:07:50.016 INFO: Started application
+- 21:07:50.016 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 21:07:50.016 INFO: Log level = DEBUG4
+- 21:07:50.016 INFO: Starting Mongoose 3.9c web server
+- 21:07:50.016 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 21:07:50.016 INFO: Index files: index.html,index.php
+- 21:07:50.016 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 21:07:50.016 INFO: CGI pattern: **.php$
+- 21:07:50.016 INFO: Hide files patterns: 
+- 21:07:50.016 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 21:07:50.016 INFO: Web server url: http://127.0.0.1:3472/
+- 21:07:50.031 INFO: remote_debugging_port = 63404
+- 21:07:50.031 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=63404
+- 21:07:50.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=gpu-process --channel="4864.0.781437862\117405260" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 21:07:50.094 DEBUG: App::OnContextInitialized()
+- 21:07:50.094 DEBUG: Window max width/height = 1286/680
+- 21:07:50.094 DEBUG: GetBrowserWindow(): not found, hwnd = 3278368
+- 21:07:50.094 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:07:50.094 DEBUG: BrowserWindow::CreateBrowserControl()
+- 21:07:50.094 DEBUG: StoreBrowserWindow(): hwnd = 3278368
+- 21:07:50.094 DEBUG: ClientHandler::OnAfterCreated()
+- 21:07:50.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 21:07:50.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 21:07:50.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4864.1.1926973722\1796040478" /prefetch:673131151
+- 21:07:50.031 DEBUG: OnBrowserCreated()
+- 21:07:51.437 INFO: GET 200 /
+- 21:07:51.452 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3472/
+- 21:08:14.915 DEBUG: WM_DESTROY
+- 21:08:14.915 DEBUG: RemoveBrowserWindow(): hwnd = 3278368
+- 21:08:14.915 INFO: Stopping Mongoose web server
+- 21:08:14.915 DEBUG: Mongoose webserver stopped immediately
+- 21:08:14.915 DEBUG: OnBeforeClose() hwnd=1181232
+- 21:08:14.915 DEBUG: RemoveBrowserWindow(): hwnd = 1181232
+- 21:08:14.915 DEBUG: GetBrowserWindow(): not found, hwnd = 1181232
+- 21:08:14.915 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 21:08:14.915 DEBUG: Calling CefQuitMessageLoop()
+[0111/210814:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 21:08:14.806 DEBUG: OnBrowserDestroyed()
+- 21:08:14.962 INFO: Ended application
+- 21:08:14.962 INFO: --------------------------------------------------------
+- 21:15:55.046 INFO: --------------------------------------------------------
+- 21:15:55.046 INFO: Started application
+- 21:15:55.046 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 21:15:55.046 INFO: Log level = DEBUG4
+- 21:15:55.046 INFO: Starting Mongoose 3.9c web server
+- 21:15:55.046 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 21:15:55.046 INFO: Index files: index.html,index.php
+- 21:15:55.046 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 21:15:55.046 INFO: CGI pattern: **.php$
+- 21:15:55.046 INFO: Hide files patterns: 
+- 21:15:55.046 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 21:15:55.062 INFO: Web server url: http://127.0.0.1:3544/
+- 21:15:55.062 INFO: remote_debugging_port = 50545
+- 21:15:55.062 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=50545
+- 21:15:55.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=gpu-process --channel="4488.0.1848804392\700093195" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 21:15:55.140 DEBUG: App::OnContextInitialized()
+- 21:15:55.140 DEBUG: Window max width/height = 1286/680
+- 21:15:55.140 DEBUG: GetBrowserWindow(): not found, hwnd = 3999052
+- 21:15:55.140 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:15:55.140 DEBUG: BrowserWindow::CreateBrowserControl()
+- 21:15:55.140 DEBUG: StoreBrowserWindow(): hwnd = 3999052
+- 21:15:55.171 DEBUG: ClientHandler::OnAfterCreated()
+- 21:15:55.171 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 21:15:55.171 DEBUG: OnLoadingStateChange: loading=1, url=
+- 21:15:55.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4488.1.235095310\87875850" /prefetch:673131151
+- 21:15:55.016 DEBUG: OnBrowserCreated()
+- 21:15:56.263 INFO: GET 200 /
+- 21:15:56.263 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3544/
+- 21:16:15.966 DEBUG: WM_DESTROY
+- 21:16:15.966 DEBUG: RemoveBrowserWindow(): hwnd = 3999052
+- 21:16:15.966 INFO: Stopping Mongoose web server
+- 21:16:15.966 DEBUG: Mongoose webserver stopped immediately
+- 21:16:15.982 DEBUG: OnBeforeClose() hwnd=1509126
+- 21:16:15.982 DEBUG: RemoveBrowserWindow(): hwnd = 1509126
+- 21:16:15.982 DEBUG: GetBrowserWindow(): not found, hwnd = 1509126
+- 21:16:15.982 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 21:16:15.982 DEBUG: Calling CefQuitMessageLoop()
+- 21:16:15.764 DEBUG: OnBrowserDestroyed()
+[0111/211615:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 21:16:15.013 INFO: Ended application
+- 21:16:15.013 INFO: --------------------------------------------------------
+- 21:16:22.016 INFO: --------------------------------------------------------
+- 21:16:22.016 INFO: Started application
+- 21:16:22.031 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 21:16:22.031 INFO: Log level = DEBUG4
+- 21:16:22.031 INFO: Starting Mongoose 3.9c web server
+- 21:16:22.031 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 21:16:22.031 INFO: Index files: index.html,index.php
+- 21:16:22.031 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 21:16:22.031 INFO: CGI pattern: **.php$
+- 21:16:22.031 INFO: Hide files patterns: 
+- 21:16:22.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 21:16:22.047 INFO: Web server url: http://127.0.0.1:3549/
+- 21:16:22.047 INFO: remote_debugging_port = 55401
+- 21:16:22.047 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=55401
+- 21:16:22.094 DEBUG: App::OnContextInitialized()
+- 21:16:22.094 DEBUG: Window max width/height = 1286/680
+- 21:16:22.094 DEBUG: GetBrowserWindow(): not found, hwnd = 3277900
+- 21:16:22.094 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:16:22.094 DEBUG: BrowserWindow::CreateBrowserControl()
+- 21:16:22.094 DEBUG: StoreBrowserWindow(): hwnd = 3277900
+- 21:16:22.109 DEBUG: ClientHandler::OnAfterCreated()
+- 21:16:22.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 21:16:22.125 DEBUG: OnLoadingStateChange: loading=1, url=
+- 21:16:22.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=gpu-process --channel="5744.0.789522559\1359306305" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 21:16:22.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5744.1.533402861\1763778469" /prefetch:673131151
+- 21:16:22.031 DEBUG: OnBrowserCreated()
+- 21:16:22.265 INFO: GET 200 /
+- 21:16:22.265 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3549/
+- 21:16:26.836 DEBUG: WM_DESTROY
+- 21:16:26.836 DEBUG: RemoveBrowserWindow(): hwnd = 3277900
+- 21:16:26.836 INFO: Stopping Mongoose web server
+- 21:16:26.836 DEBUG: Mongoose webserver stopped immediately
+- 21:16:26.836 DEBUG: OnBeforeClose() hwnd=2491838
+- 21:16:26.836 DEBUG: RemoveBrowserWindow(): hwnd = 2491838
+- 21:16:26.836 DEBUG: GetBrowserWindow(): not found, hwnd = 2491838
+- 21:16:26.836 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 21:16:26.852 DEBUG: Calling CefQuitMessageLoop()
+- 21:16:26.867 INFO: Ended application
+- 21:16:26.867 INFO: --------------------------------------------------------
+- 21:17:16.031 INFO: --------------------------------------------------------
+- 21:17:16.031 INFO: Started application
+- 21:17:16.031 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 21:17:16.031 INFO: Log level = DEBUG4
+- 21:17:16.031 INFO: Starting Mongoose 3.9c web server
+- 21:17:16.031 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 21:17:16.031 INFO: Index files: index.html,index.php
+- 21:17:16.031 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 21:17:16.031 INFO: CGI pattern: **.php$
+- 21:17:16.031 INFO: Hide files patterns: 
+- 21:17:16.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 21:17:16.063 INFO: Web server url: http://127.0.0.1:3557/
+- 21:17:16.063 INFO: remote_debugging_port = 52622
+- 21:17:16.063 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=52622
+- 21:17:16.109 DEBUG: App::OnContextInitialized()
+- 21:17:16.109 DEBUG: Window max width/height = 1286/680
+- 21:17:16.109 DEBUG: GetBrowserWindow(): not found, hwnd = 3540534
+- 21:17:16.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:17:16.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 21:17:16.109 DEBUG: StoreBrowserWindow(): hwnd = 3540534
+- 21:17:16.141 DEBUG: ClientHandler::OnAfterCreated()
+- 21:17:16.141 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 21:17:16.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 21:17:17.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="4560.0.1438315829\1936956259" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 21:17:17.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4560.1.457358357\1187622327" /prefetch:673131151
+- 21:17:17.031 DEBUG: OnBrowserCreated()
+- 21:17:18.559 INFO: GET 200 /
+- 21:17:18.559 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3557/
+- 21:17:46.000 DEBUG: Command line string for the utility process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=utility --channel="4560.2.69816852\212717151" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:-645351001
+- 21:19:29.007 DEBUG: WM_DESTROY
+- 21:19:29.007 DEBUG: RemoveBrowserWindow(): hwnd = 3540534
+- 21:19:29.007 INFO: Stopping Mongoose web server
+- 21:19:29.007 DEBUG: Mongoose webserver stopped immediately
+- 21:19:29.007 DEBUG: OnBeforeClose() hwnd=1705730
+- 21:19:29.007 DEBUG: RemoveBrowserWindow(): hwnd = 1705730
+- 21:19:29.007 DEBUG: GetBrowserWindow(): not found, hwnd = 1705730
+- 21:19:29.022 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 21:19:29.022 DEBUG: Calling CefQuitMessageLoop()
+- 21:19:29.086 DEBUG: OnBrowserDestroyed()
+- 21:19:29.038 INFO: Ended application
+- 21:19:29.038 INFO: --------------------------------------------------------
+- 21:20:49.031 INFO: --------------------------------------------------------
+- 21:20:49.031 INFO: Started application
+- 21:20:49.031 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 21:20:49.031 INFO: Log level = DEBUG4
+- 21:20:49.031 INFO: Starting Mongoose 3.9c web server
+- 21:20:49.031 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 21:20:49.031 INFO: Index files: index.html,index.php
+- 21:20:49.031 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 21:20:49.031 INFO: CGI pattern: **.php$
+- 21:20:49.031 INFO: Hide files patterns: 
+- 21:20:49.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 21:20:49.047 INFO: Web server url: http://127.0.0.1:3570/
+- 21:20:49.047 INFO: remote_debugging_port = 63472
+- 21:20:49.047 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=63472
+- 21:20:50.094 DEBUG: App::OnContextInitialized()
+- 21:20:50.094 DEBUG: Window max width/height = 1286/680
+- 21:20:50.094 DEBUG: GetBrowserWindow(): not found, hwnd = 1704716
+- 21:20:50.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 21:20:50.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 21:20:50.109 DEBUG: StoreBrowserWindow(): hwnd = 1704716
+- 21:20:50.141 DEBUG: ClientHandler::OnAfterCreated()
+- 21:20:50.141 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 21:20:50.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="5504.0.1381256364\693366210" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 21:20:50.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 21:20:50.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5504.1.614368430\1410259808" /prefetch:673131151
+- 21:20:50.031 DEBUG: OnBrowserCreated()
+- 21:20:51.966 INFO: GET 200 /
+- 21:20:51.966 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3570/
+- 21:20:53.245 DEBUG: WM_DESTROY
+- 21:20:53.245 DEBUG: RemoveBrowserWindow(): hwnd = 1704716
+- 21:20:53.245 INFO: Stopping Mongoose web server
+- 21:20:53.245 DEBUG: Mongoose webserver stopped immediately
+- 21:20:53.245 DEBUG: OnBeforeClose() hwnd=1638768
+- 21:20:53.245 DEBUG: RemoveBrowserWindow(): hwnd = 1638768
+- 21:20:53.245 DEBUG: GetBrowserWindow(): not found, hwnd = 1638768
+- 21:20:53.245 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 21:20:53.245 DEBUG: Calling CefQuitMessageLoop()
+- 21:20:53.276 INFO: Ended application
+- 21:20:53.276 INFO: --------------------------------------------------------
+- 18:03:58.202 INFO: --------------------------------------------------------
+- 18:03:58.218 INFO: Started application
+- 18:03:58.218 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 18:03:58.218 INFO: Log level = DEBUG4
+- 18:03:58.218 INFO: Starting Mongoose 3.9c web server
+- 18:03:58.218 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 18:03:58.218 INFO: Index files: index.html,index.php
+- 18:03:58.218 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 18:03:58.218 INFO: CGI pattern: **.php$
+- 18:03:58.218 INFO: Hide files patterns: 
+- 18:03:58.218 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:03:58.280 INFO: Web server url: http://127.0.0.1:3155/
+- 18:03:58.280 INFO: remote_debugging_port = 58518
+- 18:03:58.280 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=58518
+- 18:03:59.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="7116.0.253797689\867113291" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 18:03:59.514 DEBUG: App::OnContextInitialized()
+- 18:03:59.514 DEBUG: Window max width/height = 1286/680
+- 18:03:59.514 DEBUG: GetBrowserWindow(): not found, hwnd = 526114
+- 18:03:59.514 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:03:59.514 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:03:59.514 DEBUG: StoreBrowserWindow(): hwnd = 526114
+- 18:03:59.592 DEBUG: ClientHandler::OnAfterCreated()
+- 18:03:59.592 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:03:59.608 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:03:59.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="7116.1.1564363414\1168000613" /prefetch:673131151
+- 18:03:59.031 DEBUG: OnBrowserCreated()
+- 18:04:02.868 INFO: GET 200 /
+- 18:04:02.868 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3155/
+- 18:04:26.049 DEBUG: WM_DESTROY
+- 18:04:26.049 DEBUG: RemoveBrowserWindow(): hwnd = 526114
+- 18:04:26.049 INFO: Stopping Mongoose web server
+- 18:04:26.049 DEBUG: Mongoose webserver stopped immediately
+- 18:04:26.064 DEBUG: OnBeforeClose() hwnd=1246756
+- 18:04:26.064 DEBUG: RemoveBrowserWindow(): hwnd = 1246756
+- 18:04:26.064 DEBUG: GetBrowserWindow(): not found, hwnd = 1246756
+- 18:04:26.064 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:04:26.064 DEBUG: Calling CefQuitMessageLoop()
+- 18:04:26.080 INFO: Ended application
+- 18:04:26.127 INFO: --------------------------------------------------------
+- 18:04:47.047 INFO: --------------------------------------------------------
+- 18:04:47.047 INFO: Started application
+- 18:04:47.047 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 18:04:47.047 INFO: Log level = DEBUG4
+- 18:04:47.047 INFO: Starting Mongoose 3.9c web server
+- 18:04:47.047 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 18:04:47.047 INFO: Index files: index.html,index.php
+- 18:04:47.047 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 18:04:47.047 INFO: CGI pattern: **.php$
+- 18:04:47.047 INFO: Hide files patterns: 
+- 18:04:47.047 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:04:47.062 INFO: Web server url: http://127.0.0.1:3204/
+- 18:04:47.062 INFO: remote_debugging_port = 64114
+- 18:04:47.062 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=64114
+- 18:04:47.109 DEBUG: App::OnContextInitialized()
+- 18:04:47.109 DEBUG: Window max width/height = 1286/680
+- 18:04:47.109 DEBUG: GetBrowserWindow(): not found, hwnd = 788402
+- 18:04:47.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:04:47.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:04:47.109 DEBUG: StoreBrowserWindow(): hwnd = 788402
+- 18:04:47.125 DEBUG: ClientHandler::OnAfterCreated()
+- 18:04:47.125 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:04:47.140 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:04:47.016 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="5632.0.2075227034\955456799" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 18:04:47.015 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5632.1.2115506325\1872543328" /prefetch:673131151
+- 18:04:47.046 DEBUG: OnBrowserCreated()
+- 18:04:49.324 INFO: GET 200 /
+- 18:04:49.340 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3204/
+- 18:05:20.649 DEBUG: WM_DESTROY
+- 18:05:20.649 DEBUG: RemoveBrowserWindow(): hwnd = 788402
+- 18:05:20.649 INFO: Stopping Mongoose web server
+- 18:05:20.649 DEBUG: Mongoose webserver stopped immediately
+- 18:05:20.649 DEBUG: OnBeforeClose() hwnd=722712
+- 18:05:20.649 DEBUG: RemoveBrowserWindow(): hwnd = 722712
+- 18:05:20.665 DEBUG: GetBrowserWindow(): not found, hwnd = 722712
+- 18:05:20.665 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:05:20.665 DEBUG: Calling CefQuitMessageLoop()
+- 18:05:20.681 INFO: Ended application
+- 18:05:20.681 INFO: --------------------------------------------------------
+- 17:22:01.047 INFO: --------------------------------------------------------
+- 17:22:01.062 INFO: Started application
+- 17:22:01.062 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 17:22:01.062 INFO: Log level = DEBUG4
+- 17:22:01.062 INFO: Starting Mongoose 3.9c web server
+- 17:22:01.062 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 17:22:01.062 INFO: Index files: index.html,index.php
+- 17:22:01.062 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 17:22:01.062 INFO: CGI pattern: **.php$
+- 17:22:01.062 INFO: Hide files patterns: 
+- 17:22:01.062 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:22:01.078 INFO: Web server url: http://127.0.0.1:2850/
+- 17:22:01.078 INFO: remote_debugging_port = 64932
+- 17:22:01.078 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=64932
+- 17:22:02.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="208.0.1356252231\1391325303" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 17:22:02.296 DEBUG: App::OnContextInitialized()
+- 17:22:02.296 DEBUG: Window max width/height = 1286/680
+- 17:22:02.296 DEBUG: GetBrowserWindow(): not found, hwnd = 329202
+- 17:22:02.296 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:22:02.296 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:22:02.296 DEBUG: StoreBrowserWindow(): hwnd = 329202
+- 17:22:02.312 DEBUG: ClientHandler::OnAfterCreated()
+- 17:22:02.312 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:22:02.327 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:22:02.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="208.1.441389889\1601091728" /prefetch:673131151
+- 17:22:02.031 DEBUG: OnBrowserCreated()
+- 17:22:04.246 INFO: GET 200 /
+- 17:22:04.246 INFO: GET 404 /styles.css
+- 17:22:04.262 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:2850/
+- 17:22:07.709 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:2850/
+- 17:22:07.709 INFO: POST 404 /<br /><b>Notice</b>:  Undefined variable: PHP_SELF in <b>C:/xampp/htdocs/myapp/www/index.php</b> on line <b>6</b><br />
+- 17:22:07.725 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:2850/%3Cbr%20/%3E%3Cb%3ENotice%3C/b%3E:%20%20Undefined%20variable:%20PHP_SELF%20in%20%3Cb%3EC:/xampp/htdocs/myapp/www/index.php%3C/b%3E%20on%20line%20%3Cb%3E6%3C/b%3E%3Cbr%20/%3E
+- 17:22:13.388 DEBUG: WM_DESTROY
+- 17:22:13.388 DEBUG: RemoveBrowserWindow(): hwnd = 329202
+- 17:22:13.403 INFO: Stopping Mongoose web server
+- 17:22:13.403 DEBUG: Mongoose webserver stopped immediately
+- 17:22:13.403 DEBUG: OnBeforeClose() hwnd=460286
+- 17:22:13.403 DEBUG: RemoveBrowserWindow(): hwnd = 460286
+- 17:22:13.403 DEBUG: GetBrowserWindow(): not found, hwnd = 460286
+- 17:22:13.403 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:22:13.403 DEBUG: Calling CefQuitMessageLoop()
+[0116/172213:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 17:22:13.419 INFO: Ended application
+- 17:22:13.466 INFO: --------------------------------------------------------
+- 17:22:37.016 INFO: --------------------------------------------------------
+- 17:22:37.016 INFO: Started application
+- 17:22:37.031 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 17:22:37.031 INFO: Log level = DEBUG4
+- 17:22:37.031 INFO: Starting Mongoose 3.9c web server
+- 17:22:37.031 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 17:22:37.031 INFO: Index files: index.html,index.php
+- 17:22:37.031 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 17:22:37.031 INFO: CGI pattern: **.php$
+- 17:22:37.031 INFO: Hide files patterns: 
+- 17:22:37.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:22:37.031 INFO: Web server url: http://127.0.0.1:2858/
+- 17:22:37.031 INFO: remote_debugging_port = 60557
+- 17:22:37.031 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=60557
+- 17:22:37.062 DEBUG: App::OnContextInitialized()
+- 17:22:37.062 DEBUG: Window max width/height = 1286/680
+- 17:22:37.062 DEBUG: GetBrowserWindow(): not found, hwnd = 525820
+- 17:22:37.062 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:22:37.062 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:22:37.062 DEBUG: StoreBrowserWindow(): hwnd = 525820
+- 17:22:37.094 DEBUG: ClientHandler::OnAfterCreated()
+- 17:22:37.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:22:37.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:22:37.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="2004.0.1601582883\1003305252" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 17:22:37.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="2004.1.1344542036\210127978" /prefetch:673131151
+- 17:22:37.032 DEBUG: OnBrowserCreated()
+- 17:22:37.234 INFO: GET 404 /styles.css
+- 17:22:37.234 INFO: GET 200 /
+- 17:22:37.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:2858/
+- 17:22:40.276 DEBUG: WM_DESTROY
+- 17:22:40.276 DEBUG: RemoveBrowserWindow(): hwnd = 525820
+- 17:22:40.276 INFO: Stopping Mongoose web server
+- 17:22:40.276 DEBUG: Mongoose webserver stopped immediately
+- 17:22:40.292 DEBUG: OnBeforeClose() hwnd=524920
+- 17:22:40.292 DEBUG: RemoveBrowserWindow(): hwnd = 524920
+- 17:22:40.292 DEBUG: GetBrowserWindow(): not found, hwnd = 524920
+- 17:22:40.292 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:22:40.292 DEBUG: Calling CefQuitMessageLoop()
+- 17:22:40.152 DEBUG: OnBrowserDestroyed()
+- 17:22:40.307 INFO: Ended application
+- 17:22:40.307 INFO: --------------------------------------------------------
+- 20:01:33.047 INFO: --------------------------------------------------------
+- 20:01:33.063 INFO: Started application
+- 20:01:33.063 INFO: Logging to: C:\xampp\htdocs\myapp\debug.log
+- 20:01:33.063 INFO: Log level = DEBUG4
+- 20:01:33.063 INFO: Starting Mongoose 3.9c web server
+- 20:01:33.063 INFO: WWW directory: C:\xampp\htdocs\myapp\www
+- 20:01:33.063 INFO: Index files: index.html,index.php
+- 20:01:33.063 INFO: CGI interpreter: C:\xampp\htdocs\myapp\php\php-cgi.exe
+- 20:01:33.063 INFO: CGI pattern: **.php$
+- 20:01:33.063 INFO: Hide files patterns: 
+- 20:01:33.063 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:01:33.063 INFO: Web server url: http://127.0.0.1:9361/
+- 20:01:33.063 INFO: remote_debugging_port = 64235
+- 20:01:33.063 DEBUG: Command line string for the browser process: "C:\xampp\htdocs\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --remote-debugging-port=64235
+- 20:01:33.000 DEBUG: Command line string for the gpu-process process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=gpu-process --channel="6384.0.1711920520\1838372498" --no-sandbox --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" /prefetch:822062411
+- 20:01:33.281 DEBUG: App::OnContextInitialized()
+- 20:01:33.281 DEBUG: Window max width/height = 1286/680
+- 20:01:33.281 DEBUG: GetBrowserWindow(): not found, hwnd = 657226
+- 20:01:33.281 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:01:33.281 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:01:33.281 DEBUG: StoreBrowserWindow(): hwnd = 657226
+- 20:01:33.297 DEBUG: ClientHandler::OnAfterCreated()
+- 20:01:33.297 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:01:33.312 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:01:33.000 DEBUG: Command line string for the renderer process: "C:\xampp\htdocs\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\xampp\htdocs\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6384.1.735397212\1875378251" /prefetch:673131151
+- 20:01:33.046 DEBUG: OnBrowserCreated()
+- 20:01:35.200 INFO: GET 404 /styles.css
+- 20:01:35.247 INFO: GET 200 /
+- 20:01:35.247 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:9361/
+- 20:01:36.854 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:9361/
+- 20:01:36.854 INFO: POST 404 /<br /><b>Notice</b>:  Undefined variable: PHP_SELF in <b>C:/xampp/htdocs/myapp/www/index.php</b> on line <b>6</b><br />
+- 20:01:36.854 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:9361/%3Cbr%20/%3E%3Cb%3ENotice%3C/b%3E:%20%20Undefined%20variable:%20PHP_SELF%20in%20%3Cb%3EC:/xampp/htdocs/myapp/www/index.php%3C/b%3E%20on%20line%20%3Cb%3E6%3C/b%3E%3Cbr%20/%3E
+- 20:01:38.382 DEBUG: WM_DESTROY
+- 20:01:38.382 DEBUG: RemoveBrowserWindow(): hwnd = 657226
+- 20:01:38.382 INFO: Stopping Mongoose web server
+- 20:01:38.382 DEBUG: Mongoose webserver stopped immediately
+- 20:01:38.382 DEBUG: OnBeforeClose() hwnd=657236
+- 20:01:38.382 DEBUG: RemoveBrowserWindow(): hwnd = 657236
+- 20:01:38.382 DEBUG: GetBrowserWindow(): not found, hwnd = 657236
+- 20:01:38.398 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:01:38.398 DEBUG: Calling CefQuitMessageLoop()
+- 20:01:38.414 INFO: Ended application
+- 20:01:38.460 INFO: --------------------------------------------------------
+- 20:13:48.031 INFO: --------------------------------------------------------
+- 20:13:48.031 INFO: Started application
+- 20:13:48.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 20:13:48.031 INFO: Log level = DEBUG4
+- 20:13:48.031 INFO: Starting Mongoose 3.9c web server
+- 20:13:48.047 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 20:13:48.047 INFO: Index files: index.html,index.php
+- 20:13:48.047 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 20:13:48.047 INFO: CGI pattern: **.php$
+- 20:13:48.047 INFO: Hide files patterns: 
+- 20:13:48.047 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:13:48.093 INFO: Web server url: http://127.0.0.1:13611/
+- 20:13:48.093 INFO: remote_debugging_port = 50903
+- 20:13:48.093 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\raselapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=50903
+- 20:13:48.187 DEBUG: App::OnContextInitialized()
+- 20:13:48.187 DEBUG: Window max width/height = 1286/680
+- 20:13:48.187 DEBUG: GetBrowserWindow(): not found, hwnd = 263594
+- 20:13:48.187 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:13:48.187 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:13:48.187 DEBUG: StoreBrowserWindow(): hwnd = 263594
+- 20:13:48.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\raselapp.exe" --type=gpu-process --channel="4292.0.734696782\1204685655" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 20:13:48.218 DEBUG: ClientHandler::OnAfterCreated()
+- 20:13:48.218 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:13:48.249 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:13:48.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\raselapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4292.1.1361677696\234570756" /prefetch:673131151
+- 20:13:48.062 DEBUG: OnBrowserCreated()
+- 20:13:49.310 INFO: GET 200 /
+- 20:13:49.310 INFO: GET 404 /styles.css
+- 20:13:49.326 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:13611/
+- 20:13:55.737 DEBUG: WM_DESTROY
+- 20:13:55.737 DEBUG: RemoveBrowserWindow(): hwnd = 263594
+- 20:13:55.737 INFO: Stopping Mongoose web server
+- 20:13:55.753 DEBUG: Mongoose webserver stopped immediately
+- 20:13:55.753 DEBUG: OnBeforeClose() hwnd=263604
+- 20:13:55.753 DEBUG: RemoveBrowserWindow(): hwnd = 263604
+- 20:13:55.753 DEBUG: GetBrowserWindow(): not found, hwnd = 263604
+- 20:13:55.753 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:13:55.753 DEBUG: Calling CefQuitMessageLoop()
+- 20:13:55.769 INFO: Ended application
+- 20:13:55.784 INFO: --------------------------------------------------------
+- 20:53:39.047 INFO: --------------------------------------------------------
+- 20:53:39.047 INFO: Started application
+- 20:53:39.047 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 20:53:39.047 INFO: Log level = DEBUG4
+- 20:53:39.047 INFO: Starting Mongoose 3.9c web server
+- 20:53:39.047 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 20:53:39.047 INFO: Index files: index.html,index.php
+- 20:53:39.047 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 20:53:39.047 INFO: CGI pattern: **.php$
+- 20:53:39.047 INFO: Hide files patterns: 
+- 20:53:39.047 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:53:39.094 INFO: Web server url: http://127.0.0.1:4128/
+- 20:53:39.094 INFO: remote_debugging_port = 60136
+- 20:53:39.094 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=60136
+- 20:53:39.141 DEBUG: App::OnContextInitialized()
+- 20:53:39.156 DEBUG: Window max width/height = 1286/680
+- 20:53:39.156 DEBUG: GetBrowserWindow(): not found, hwnd = 199294
+- 20:53:39.156 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:53:39.156 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:53:39.156 DEBUG: StoreBrowserWindow(): hwnd = 199294
+- 20:53:39.172 DEBUG: ClientHandler::OnAfterCreated()
+- 20:53:39.172 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:53:39.188 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:53:39.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="6512.0.1449665099\334466246" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 20:53:39.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6512.1.389955549\386928602" /prefetch:673131151
+- 20:53:39.016 DEBUG: OnBrowserCreated()
+- 20:53:39.328 INFO: GET 404 /styles.css
+- 20:53:39.328 INFO: GET 200 /
+- 20:53:39.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4128/
+- 20:53:48.971 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:4128/
+- 20:53:48.986 INFO: POST 404 /<br /><b>Notice</b>:  Undefined variable: PHP_SELF in <b>C:/Users/khan/Desktop/Github/myapp/www/index.php</b> on line <b>6</b><br />
+- 20:53:48.002 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4128/%3Cbr%20/%3E%3Cb%3ENotice%3C/b%3E:%20%20Undefined%20variable:%20PHP_SELF%20in%20%3Cb%3EC:/Users/khan/Desktop/Github/myapp/www/index.php%3C/b%3E%20on%20line%20%3Cb%3E6%3C/b%3E%3Cbr%20/%3E
+- 20:53:49.484 DEBUG: WM_DESTROY
+- 20:53:49.484 DEBUG: RemoveBrowserWindow(): hwnd = 199294
+- 20:53:49.484 INFO: Stopping Mongoose web server
+- 20:53:49.484 DEBUG: Mongoose webserver stopped immediately
+- 20:53:49.484 DEBUG: OnBeforeClose() hwnd=395754
+- 20:53:49.484 DEBUG: RemoveBrowserWindow(): hwnd = 395754
+- 20:53:49.484 DEBUG: GetBrowserWindow(): not found, hwnd = 395754
+- 20:53:49.484 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:53:49.484 DEBUG: Calling CefQuitMessageLoop()
+- 20:53:49.265 DEBUG: OnBrowserDestroyed()
+- 20:53:49.515 INFO: Ended application
+- 20:53:49.515 INFO: --------------------------------------------------------
+- 20:54:14.031 INFO: --------------------------------------------------------
+- 20:54:14.031 INFO: Started application
+- 20:54:14.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 20:54:14.031 INFO: Log level = DEBUG4
+- 20:54:14.031 INFO: Starting Mongoose 3.9c web server
+- 20:54:14.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 20:54:14.031 INFO: Index files: index.html,index.php
+- 20:54:14.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 20:54:14.031 INFO: CGI pattern: **.php$
+- 20:54:14.031 INFO: Hide files patterns: 
+- 20:54:14.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:54:14.047 INFO: Web server url: http://127.0.0.1:4134/
+- 20:54:14.047 INFO: remote_debugging_port = 52845
+- 20:54:14.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=52845
+- 20:54:14.093 DEBUG: App::OnContextInitialized()
+- 20:54:14.093 DEBUG: Window max width/height = 1286/680
+- 20:54:14.093 DEBUG: GetBrowserWindow(): not found, hwnd = 330424
+- 20:54:14.093 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:54:14.093 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:54:14.093 DEBUG: StoreBrowserWindow(): hwnd = 330424
+- 20:54:14.125 DEBUG: ClientHandler::OnAfterCreated()
+- 20:54:14.125 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:54:14.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="3276.0.2131194747\1074505592" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 20:54:14.140 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:54:14.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="3276.1.120470885\379325476" /prefetch:673131151
+- 20:54:14.032 DEBUG: OnBrowserCreated()
+- 20:54:14.265 INFO: GET 200 /
+- 20:54:14.265 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4134/
+- 20:57:32.032 INFO: --------------------------------------------------------
+- 20:57:32.032 INFO: Started application
+- 20:57:32.032 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 20:57:32.032 INFO: Log level = DEBUG4
+- 20:57:32.032 INFO: Starting Mongoose 3.9c web server
+- 20:57:32.032 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 20:57:32.032 INFO: Index files: index.html,index.php
+- 20:57:32.032 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 20:57:32.032 INFO: CGI pattern: **.php$
+- 20:57:32.032 INFO: Hide files patterns: 
+- 20:57:32.032 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:57:32.047 INFO: Web server url: http://127.0.0.1:4203/
+- 20:57:32.047 INFO: remote_debugging_port = 52050
+- 20:57:32.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=52050
+- 20:57:32.094 DEBUG: App::OnContextInitialized()
+- 20:57:32.094 DEBUG: Window max width/height = 1286/680
+- 20:57:32.094 DEBUG: GetBrowserWindow(): not found, hwnd = 854086
+- 20:57:32.094 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:57:32.094 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:57:32.094 DEBUG: StoreBrowserWindow(): hwnd = 854086
+- 20:57:33.141 DEBUG: ClientHandler::OnAfterCreated()
+- 20:57:33.141 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:57:33.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:57:33.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="2032.0.994102988\1531943778" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 20:57:33.016 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="2032.1.485743535\298695379" /prefetch:673131151
+- 20:57:33.047 DEBUG: OnBrowserCreated()
+[0117/205733:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0117/205733:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\khan\Desktop\Github\myapp\webcache\GPUCache to C:\Users\khan\Desktop\Github\myapp\webcache\old_GPUCache_000
+[0117/205733:ERROR:cache_creator.cc(127)] Unable to create cache
+[0117/205733:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0117/205733:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0117/205733:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\khan\Desktop\Github\myapp\webcache to C:\Users\khan\Desktop\Github\myapp\old_webcache_000
+[0117/205733:ERROR:cache_creator.cc(127)] Unable to create cache
+- 20:57:33.297 INFO: GET 200 /
+- 20:57:33.312 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4203/
+- 20:57:44.856 DEBUG: WM_DESTROY
+- 20:57:44.856 DEBUG: RemoveBrowserWindow(): hwnd = 854086
+- 20:57:44.856 INFO: Stopping Mongoose web server
+- 20:57:44.856 DEBUG: Mongoose webserver stopped immediately
+- 20:57:44.856 DEBUG: OnBeforeClose() hwnd=329156
+- 20:57:44.856 DEBUG: RemoveBrowserWindow(): hwnd = 329156
+- 20:57:44.856 DEBUG: GetBrowserWindow(): not found, hwnd = 329156
+- 20:57:44.856 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:57:44.856 DEBUG: Calling CefQuitMessageLoop()
+- 20:57:44.888 INFO: Ended application
+- 20:57:44.888 INFO: --------------------------------------------------------
+- 20:57:47.016 INFO: --------------------------------------------------------
+- 20:57:47.016 INFO: Started application
+- 20:57:47.016 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 20:57:47.016 INFO: Log level = DEBUG4
+- 20:57:47.016 INFO: Starting Mongoose 3.9c web server
+- 20:57:47.016 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 20:57:47.016 INFO: Index files: index.html,index.php
+- 20:57:47.016 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 20:57:47.016 INFO: CGI pattern: **.php$
+- 20:57:47.016 INFO: Hide files patterns: 
+- 20:57:47.016 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:57:47.047 INFO: Web server url: http://127.0.0.1:4205/
+- 20:57:47.047 INFO: remote_debugging_port = 64441
+- 20:57:47.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=64441
+- 20:57:47.078 DEBUG: App::OnContextInitialized()
+- 20:57:47.078 DEBUG: Window max width/height = 1286/680
+- 20:57:47.078 DEBUG: GetBrowserWindow(): not found, hwnd = 394842
+- 20:57:47.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:57:47.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:57:47.078 DEBUG: StoreBrowserWindow(): hwnd = 394842
+- 20:57:47.110 DEBUG: ClientHandler::OnAfterCreated()
+- 20:57:47.110 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:57:47.110 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:57:47.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="7144.0.1362430792\1835506377" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 20:57:47.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="7144.1.1364580456\719389020" /prefetch:673131151
+- 20:57:47.047 DEBUG: OnBrowserCreated()
+[0117/205747:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0117/205747:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\khan\Desktop\Github\myapp\webcache\GPUCache to C:\Users\khan\Desktop\Github\myapp\webcache\old_GPUCache_000
+[0117/205747:ERROR:cache_creator.cc(127)] Unable to create cache
+[0117/205747:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0117/205747:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0117/205747:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\khan\Desktop\Github\myapp\webcache to C:\Users\khan\Desktop\Github\myapp\old_webcache_000
+[0117/205747:ERROR:cache_creator.cc(127)] Unable to create cache
+- 20:57:47.281 INFO: GET 200 /
+- 20:57:47.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4205/
+- 20:58:13.521 DEBUG: WM_DESTROY
+- 20:58:13.521 DEBUG: RemoveBrowserWindow(): hwnd = 394842
+- 20:58:13.521 INFO: Stopping Mongoose web server
+- 20:58:13.521 DEBUG: Mongoose webserver stopped immediately
+- 20:58:13.521 DEBUG: OnBeforeClose() hwnd=722760
+- 20:58:13.521 DEBUG: RemoveBrowserWindow(): hwnd = 722760
+- 20:58:13.521 DEBUG: GetBrowserWindow(): not found, hwnd = 722760
+- 20:58:13.521 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:58:13.521 DEBUG: Calling CefQuitMessageLoop()
+- 20:58:13.380 DEBUG: OnBrowserDestroyed()
+- 20:58:13.552 INFO: Ended application
+- 20:58:13.552 INFO: --------------------------------------------------------
+- 21:06:20.997 DEBUG: WM_DESTROY
+- 21:06:20.997 DEBUG: RemoveBrowserWindow(): hwnd = 330424
+- 21:06:20.997 INFO: Stopping Mongoose web server
+- 21:06:20.997 DEBUG: Mongoose webserver stopped immediately
+- 21:06:20.997 DEBUG: OnBeforeClose() hwnd=461510
+- 21:06:20.997 DEBUG: RemoveBrowserWindow(): hwnd = 461510
+- 21:06:20.997 DEBUG: GetBrowserWindow(): not found, hwnd = 461510
+- 21:06:20.997 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 21:06:20.997 DEBUG: Calling CefQuitMessageLoop()
+- 16:45:18.046 INFO: --------------------------------------------------------
+- 16:45:18.062 INFO: Started application
+- 16:45:18.062 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 16:45:18.062 INFO: Log level = DEBUG4
+- 16:45:18.062 INFO: Starting Mongoose 3.9c web server
+- 16:45:18.062 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 16:45:18.062 INFO: Index files: index.html,index.php
+- 16:45:18.062 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 16:45:18.062 INFO: CGI pattern: **.php$
+- 16:45:18.062 INFO: Hide files patterns: 
+- 16:45:18.062 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:45:18.062 INFO: Web server url: http://127.0.0.1:1802/
+- 16:45:18.062 INFO: remote_debugging_port = 61633
+- 16:45:18.062 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=61633
+- 16:45:19.265 DEBUG: App::OnContextInitialized()
+- 16:45:19.265 DEBUG: Window max width/height = 1286/680
+- 16:45:19.265 DEBUG: GetBrowserWindow(): not found, hwnd = 263132
+- 16:45:19.265 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:45:19.265 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:45:19.265 DEBUG: StoreBrowserWindow(): hwnd = 263132
+- 16:45:19.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="1048.0.1679447658\238321973" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 16:45:19.280 DEBUG: ClientHandler::OnAfterCreated()
+- 16:45:19.280 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:45:19.280 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:45:19.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="1048.1.175440157\1224820637" /prefetch:673131151
+- 16:45:19.031 DEBUG: OnBrowserCreated()
+- 16:45:20.074 INFO: GET 200 /
+- 16:45:20.074 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:1802/
+- 16:45:26.956 DEBUG: WM_DESTROY
+- 16:45:26.956 DEBUG: RemoveBrowserWindow(): hwnd = 263132
+- 16:45:26.956 INFO: Stopping Mongoose web server
+- 16:45:26.956 DEBUG: Mongoose webserver stopped immediately
+- 16:45:26.956 DEBUG: OnBeforeClose() hwnd=328626
+- 16:45:26.956 DEBUG: RemoveBrowserWindow(): hwnd = 328626
+- 16:45:26.956 DEBUG: GetBrowserWindow(): not found, hwnd = 328626
+- 16:45:26.956 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:45:26.956 DEBUG: Calling CefQuitMessageLoop()
+- 16:45:26.644 DEBUG: OnBrowserDestroyed()
+- 16:45:26.987 INFO: Ended application
+- 16:45:26.018 INFO: --------------------------------------------------------
+- 17:32:53.031 INFO: --------------------------------------------------------
+- 17:32:53.031 INFO: Started application
+- 17:32:53.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 17:32:53.031 INFO: Log level = DEBUG4
+- 17:32:53.031 INFO: Starting Mongoose 3.9c web server
+- 17:32:53.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 17:32:53.031 INFO: Index files: index.html,index.php
+- 17:32:53.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 17:32:53.031 INFO: CGI pattern: **.php$
+- 17:32:53.031 INFO: Hide files patterns: 
+- 17:32:53.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:32:53.031 INFO: Web server url: http://127.0.0.1:2278/
+- 17:32:53.047 INFO: remote_debugging_port = 63802
+- 17:32:53.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=63802
+- 17:32:53.078 DEBUG: App::OnContextInitialized()
+- 17:32:53.078 DEBUG: Window max width/height = 1286/680
+- 17:32:53.078 DEBUG: GetBrowserWindow(): not found, hwnd = 132960
+- 17:32:53.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:32:53.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:32:53.078 DEBUG: StoreBrowserWindow(): hwnd = 132960
+- 17:32:53.109 DEBUG: ClientHandler::OnAfterCreated()
+- 17:32:53.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:32:53.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:32:53.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="5236.0.1097578582\2003189584" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 17:32:53.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5236.1.255266725\1771394021" /prefetch:673131151
+- 17:32:53.015 DEBUG: OnBrowserCreated()
+- 17:32:53.203 INFO: GET 200 /
+- 17:32:53.203 INFO: GET 200 /css/grid.css
+- 17:32:53.218 INFO: GET 200 /css/style.css
+- 17:32:58.179 INFO: GET 200 /images/header_bg.jpg
+- 17:32:58.195 INFO: GET 404 /images/menu-bullet.png
+- 17:32:58.257 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:2278/
+- 17:33:38.178 DEBUG: ClientHandler::OnAfterCreated()
+- 17:33:38.178 DEBUG: GetBrowserWindow(): not found, hwnd = 853762
+- 17:33:38.193 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 17:33:38.193 DEBUG: StoreBrowserWindow(): hwnd = 853762
+- 17:33:38.193 DEBUG: Centering popup window relative to its parent
+- 17:33:38.225 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:33:38.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5236.2.895582021\433042086" /prefetch:673131151
+- 17:33:38.031 DEBUG: OnBrowserCreated()
+- 17:33:38.047 DEBUG: OnContextCreated()
+- 17:33:38.521 DEBUG: OnLoadingStateChange: loading=0, url=chrome-devtools://devtools/inspector.html
+- 17:33:38.552 DEBUG: OnContextCreated()
+- 17:33:52.764 DEBUG: OnBeforeClose() hwnd=853762
+- 17:33:52.764 DEBUG: RemoveBrowserWindow(): hwnd = 853762
+- 17:33:54.121 DEBUG: WM_DESTROY
+- 17:33:54.137 DEBUG: RemoveBrowserWindow(): hwnd = 132960
+- 17:33:54.137 INFO: Stopping Mongoose web server
+- 17:33:54.137 DEBUG: Mongoose webserver stopped immediately
+- 17:33:54.152 DEBUG: OnBeforeClose() hwnd=263994
+- 17:33:54.152 DEBUG: RemoveBrowserWindow(): hwnd = 263994
+- 17:33:54.152 DEBUG: GetBrowserWindow(): not found, hwnd = 263994
+- 17:33:54.152 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:33:54.152 DEBUG: Calling CefQuitMessageLoop()
+[0119/173354:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 17:33:54.183 INFO: Ended application
+- 17:33:54.183 INFO: --------------------------------------------------------
+- 17:36:26.031 INFO: --------------------------------------------------------
+- 17:36:26.031 INFO: Started application
+- 17:36:26.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 17:36:26.031 INFO: Log level = DEBUG4
+- 17:36:26.031 INFO: Starting Mongoose 3.9c web server
+- 17:36:26.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 17:36:26.031 INFO: Index files: index.html,index.php
+- 17:36:26.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 17:36:26.031 INFO: CGI pattern: **.php$
+- 17:36:26.031 INFO: Hide files patterns: 
+- 17:36:26.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:36:26.031 INFO: Web server url: http://127.0.0.1:2646/
+- 17:36:26.031 INFO: remote_debugging_port = 62514
+- 17:36:26.031 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=62514
+- 17:36:26.078 DEBUG: App::OnContextInitialized()
+- 17:36:26.078 DEBUG: Window max width/height = 1286/680
+- 17:36:26.078 DEBUG: GetBrowserWindow(): not found, hwnd = 395116
+- 17:36:26.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:36:26.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:36:26.078 DEBUG: StoreBrowserWindow(): hwnd = 395116
+- 17:36:26.093 DEBUG: ClientHandler::OnAfterCreated()
+- 17:36:26.093 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:36:26.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:36:26.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="5792.0.1858084323\167434050" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 17:36:26.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5792.1.1966697013\1224271229" /prefetch:673131151
+- 17:36:26.031 DEBUG: OnBrowserCreated()
+- 17:36:28.232 INFO: GET 200 /
+- 17:36:28.232 INFO: GET 200 /css/grid.css
+- 17:36:28.232 INFO: GET 200 /css/style.css
+- 17:36:28.263 INFO: GET 404 /images/menu-bullet.png
+- 17:36:28.263 INFO: GET 200 /images/header_bg.jpg
+- 17:36:28.310 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:2646/
+- 17:37:16.280 DEBUG: ClientHandler::OnAfterCreated()
+- 17:37:16.280 DEBUG: GetBrowserWindow(): not found, hwnd = 460646
+- 17:37:16.280 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 17:37:16.280 DEBUG: StoreBrowserWindow(): hwnd = 460646
+- 17:37:16.280 DEBUG: Centering popup window relative to its parent
+- 17:37:16.296 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:37:16.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5792.2.941328290\710118575" /prefetch:673131151
+- 17:37:16.031 DEBUG: OnBrowserCreated()
+- 17:37:16.078 DEBUG: OnContextCreated()
+- 17:37:16.624 DEBUG: OnLoadingStateChange: loading=0, url=chrome-devtools://devtools/inspector.html
+- 17:37:16.686 DEBUG: OnContextCreated()
+- 17:38:00.709 DEBUG: OnBeforeClose() hwnd=460646
+- 17:38:00.709 DEBUG: RemoveBrowserWindow(): hwnd = 460646
+- 17:38:01.474 DEBUG: WM_DESTROY
+- 17:38:01.474 DEBUG: RemoveBrowserWindow(): hwnd = 395116
+- 17:38:01.474 INFO: Stopping Mongoose web server
+- 17:38:01.474 DEBUG: Mongoose webserver stopped immediately
+- 17:38:01.474 DEBUG: OnBeforeClose() hwnd=1705106
+- 17:38:01.474 DEBUG: RemoveBrowserWindow(): hwnd = 1705106
+- 17:38:01.474 DEBUG: GetBrowserWindow(): not found, hwnd = 1705106
+- 17:38:01.474 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:38:01.489 DEBUG: Calling CefQuitMessageLoop()
+[0119/173801:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 17:38:01.505 INFO: Ended application
+- 17:38:01.521 INFO: --------------------------------------------------------
+- 17:38:10.031 INFO: --------------------------------------------------------
+- 17:38:10.031 INFO: Started application
+- 17:38:10.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 17:38:10.031 INFO: Log level = DEBUG4
+- 17:38:10.031 INFO: Starting Mongoose 3.9c web server
+- 17:38:10.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 17:38:10.031 INFO: Index files: index.html,index.php
+- 17:38:10.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 17:38:10.031 INFO: CGI pattern: **.php$
+- 17:38:10.031 INFO: Hide files patterns: 
+- 17:38:10.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 17:38:10.031 INFO: Web server url: http://127.0.0.1:2721/
+- 17:38:10.031 INFO: remote_debugging_port = 65303
+- 17:38:10.031 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=65303
+- 17:38:10.078 DEBUG: App::OnContextInitialized()
+- 17:38:10.078 DEBUG: Window max width/height = 1286/680
+- 17:38:10.078 DEBUG: GetBrowserWindow(): not found, hwnd = 1836178
+- 17:38:10.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 17:38:10.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 17:38:10.078 DEBUG: StoreBrowserWindow(): hwnd = 1836178
+- 17:38:10.093 DEBUG: ClientHandler::OnAfterCreated()
+- 17:38:10.093 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 17:38:10.093 DEBUG: OnLoadingStateChange: loading=1, url=
+- 17:38:10.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="1212.0.616700852\357798362" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 17:38:10.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="1212.1.2004700213\198647550" /prefetch:673131151
+- 17:38:10.032 DEBUG: OnBrowserCreated()
+- 17:38:11.216 INFO: GET 200 /
+- 17:38:11.232 INFO: GET 200 /css/grid.css
+- 17:38:11.232 INFO: GET 200 /css/style.css
+- 17:38:11.248 INFO: GET 404 /images/menu-bullet.png
+- 17:38:11.248 INFO: GET 200 /images/header_bg.jpg
+- 17:38:11.248 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:2721/
+- 17:38:37.768 DEBUG: WM_DESTROY
+- 17:38:37.768 DEBUG: RemoveBrowserWindow(): hwnd = 1836178
+- 17:38:37.768 INFO: Stopping Mongoose web server
+- 17:38:37.768 DEBUG: Mongoose webserver stopped immediately
+- 17:38:37.768 DEBUG: OnBeforeClose() hwnd=591894
+- 17:38:37.768 DEBUG: RemoveBrowserWindow(): hwnd = 591894
+- 17:38:37.768 DEBUG: GetBrowserWindow(): not found, hwnd = 591894
+- 17:38:37.768 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 17:38:37.768 DEBUG: Calling CefQuitMessageLoop()
+- 17:38:37.815 INFO: Ended application
+- 17:38:37.815 INFO: --------------------------------------------------------
+- 18:33:31.031 INFO: --------------------------------------------------------
+- 18:33:31.031 INFO: Started application
+- 18:33:31.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:33:31.031 INFO: Log level = DEBUG4
+- 18:33:31.031 INFO: Starting Mongoose 3.9c web server
+- 18:33:31.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:33:31.031 INFO: Index files: index.html,index.php
+- 18:33:31.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:33:31.031 INFO: CGI pattern: **.php$
+- 18:33:31.031 INFO: Hide files patterns: 
+- 18:33:31.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:33:31.031 INFO: Web server url: http://127.0.0.1:3619/
+- 18:33:31.031 INFO: remote_debugging_port = 55039
+- 18:33:31.031 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=55039
+- 18:33:31.078 DEBUG: App::OnContextInitialized()
+- 18:33:31.078 DEBUG: Window max width/height = 1286/680
+- 18:33:31.078 DEBUG: GetBrowserWindow(): not found, hwnd = 461356
+- 18:33:31.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:33:31.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:33:31.078 DEBUG: StoreBrowserWindow(): hwnd = 461356
+- 18:33:31.093 DEBUG: ClientHandler::OnAfterCreated()
+- 18:33:31.093 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:33:31.093 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:33:31.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="6268.0.651259720\1126342072" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:33:31.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6268.1.2109002427\1195590740" /prefetch:673131151
+- 18:33:31.031 DEBUG: OnBrowserCreated()
+- 18:33:31.764 INFO: GET 200 /
+- 18:33:31.780 INFO: GET 200 /css/grid.css
+- 18:33:31.780 INFO: GET 200 /css/style.css
+- 18:33:31.078 DEBUG: OnContextCreated()
+- 18:33:31.109 DEBUG: OnContextCreated()
+- 18:33:31.842 INFO: GET 404 /images/menu-bullet.png
+- 18:33:31.842 INFO: GET 200 /images/header_bg.jpg
+- 18:33:31.858 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3619/
+- 18:33:49.018 DEBUG: WM_DESTROY
+- 18:33:49.018 DEBUG: RemoveBrowserWindow(): hwnd = 461356
+- 18:33:49.018 INFO: Stopping Mongoose web server
+- 18:33:49.018 DEBUG: Mongoose webserver stopped immediately
+- 18:33:49.033 DEBUG: OnBeforeClose() hwnd=330296
+- 18:33:49.033 DEBUG: RemoveBrowserWindow(): hwnd = 330296
+- 18:33:49.033 DEBUG: GetBrowserWindow(): not found, hwnd = 330296
+- 18:33:49.033 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:33:49.033 DEBUG: Calling CefQuitMessageLoop()
+- 18:33:49.064 INFO: Ended application
+- 18:33:49.064 INFO: --------------------------------------------------------
+- 18:36:25.031 INFO: --------------------------------------------------------
+- 18:36:25.031 INFO: Started application
+- 18:36:25.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:36:25.031 INFO: Log level = DEBUG4
+- 18:36:25.031 INFO: Starting Mongoose 3.9c web server
+- 18:36:25.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:36:25.031 INFO: Index files: index.html,index.php
+- 18:36:25.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:36:25.031 INFO: CGI pattern: **.php$
+- 18:36:25.031 INFO: Hide files patterns: 
+- 18:36:25.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:36:25.031 INFO: Web server url: http://127.0.0.1:3649/
+- 18:36:25.047 INFO: remote_debugging_port = 53732
+- 18:36:25.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=53732
+- 18:36:25.078 DEBUG: App::OnContextInitialized()
+- 18:36:25.078 DEBUG: Window max width/height = 1286/680
+- 18:36:25.078 DEBUG: GetBrowserWindow(): not found, hwnd = 526706
+- 18:36:25.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:36:25.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:36:25.078 DEBUG: StoreBrowserWindow(): hwnd = 526706
+- 18:36:25.109 DEBUG: ClientHandler::OnAfterCreated()
+- 18:36:25.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:36:25.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:36:25.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="6864.0.1888971878\858271469" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:36:25.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6864.1.1279439147\630166520" /prefetch:673131151
+- 18:36:25.031 DEBUG: OnBrowserCreated()
+- 18:36:25.218 INFO: GET 200 /
+- 18:36:25.218 INFO: GET 200 /css/grid.css
+- 18:36:25.234 INFO: GET 200 /css/style.css
+- 18:36:25.078 DEBUG: OnContextCreated()
+- 18:36:25.093 DEBUG: OnContextCreated()
+- 18:36:25.281 INFO: GET 404 /images/menu-bullet.png
+- 18:36:25.281 INFO: GET 200 /images/header_bg.jpg
+- 18:36:25.296 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3649/
+- 18:36:51.771 DEBUG: ClientHandler::OnAfterCreated()
+- 18:36:51.771 DEBUG: GetBrowserWindow(): not found, hwnd = 591266
+- 18:36:51.771 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 18:36:51.771 DEBUG: StoreBrowserWindow(): hwnd = 591266
+- 18:36:51.787 DEBUG: Centering popup window relative to its parent
+- 18:36:51.787 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:36:51.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6864.2.702365796\1870553305" /prefetch:673131151
+- 18:36:51.016 DEBUG: OnBrowserCreated()
+- 18:36:51.031 DEBUG: OnContextCreated()
+- 18:36:51.083 DEBUG: OnLoadingStateChange: loading=0, url=chrome-devtools://devtools/inspector.html
+- 18:37:16.841 DEBUG: OnBeforeClose() hwnd=591266
+- 18:37:16.841 DEBUG: RemoveBrowserWindow(): hwnd = 591266
+- 18:37:43.297 DEBUG: WM_DESTROY
+- 18:37:43.297 DEBUG: RemoveBrowserWindow(): hwnd = 526706
+- 18:37:43.297 INFO: Stopping Mongoose web server
+- 18:37:43.297 DEBUG: Mongoose webserver stopped immediately
+- 18:37:43.297 DEBUG: OnBeforeClose() hwnd=394104
+- 18:37:43.297 DEBUG: RemoveBrowserWindow(): hwnd = 394104
+- 18:37:43.297 DEBUG: GetBrowserWindow(): not found, hwnd = 394104
+- 18:37:43.297 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:37:43.297 DEBUG: Calling CefQuitMessageLoop()
+- 18:37:43.344 INFO: Ended application
+- 18:37:43.344 INFO: --------------------------------------------------------
+- 18:37:49.015 INFO: --------------------------------------------------------
+- 18:37:49.015 INFO: Started application
+- 18:37:49.015 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:37:49.015 INFO: Log level = DEBUG4
+- 18:37:49.015 INFO: Starting Mongoose 3.9c web server
+- 18:37:49.015 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:37:49.015 INFO: Index files: index.html,index.php
+- 18:37:49.015 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:37:49.015 INFO: CGI pattern: **.php$
+- 18:37:49.015 INFO: Hide files patterns: 
+- 18:37:49.015 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:37:49.031 INFO: Web server url: http://127.0.0.1:3657/
+- 18:37:49.031 INFO: remote_debugging_port = 60117
+- 18:37:49.031 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=60117
+- 18:37:49.062 DEBUG: App::OnContextInitialized()
+- 18:37:49.062 DEBUG: Window max width/height = 1286/680
+- 18:37:49.062 DEBUG: GetBrowserWindow(): not found, hwnd = 461396
+- 18:37:49.062 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:37:49.062 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:37:49.062 DEBUG: StoreBrowserWindow(): hwnd = 461396
+- 18:37:49.093 DEBUG: ClientHandler::OnAfterCreated()
+- 18:37:49.093 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:37:49.093 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:37:49.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=gpu-process --channel="1740.0.1057270892\2065487203" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:37:49.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\phpdskapp.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="1740.1.600886022\1930047832" /prefetch:673131151
+- 18:37:49.016 DEBUG: OnBrowserCreated()
+- 18:37:49.202 INFO: GET 200 /
+- 18:37:49.202 INFO: GET 200 /css/grid.css
+- 18:37:49.202 INFO: GET 200 /css/style.css
+- 18:37:49.078 DEBUG: OnContextCreated()
+- 18:37:49.094 DEBUG: OnContextCreated()
+- 18:37:49.249 INFO: GET 404 /images/menu-bullet.png
+- 18:37:49.249 INFO: GET 200 /images/header_bg.jpg
+- 18:37:49.265 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3657/
+- 18:38:42.510 DEBUG: WM_DESTROY
+- 18:38:42.510 DEBUG: RemoveBrowserWindow(): hwnd = 461396
+- 18:38:42.525 INFO: Stopping Mongoose web server
+- 18:38:42.525 DEBUG: Mongoose webserver stopped immediately
+- 18:38:42.525 DEBUG: OnBeforeClose() hwnd=328912
+- 18:38:42.525 DEBUG: RemoveBrowserWindow(): hwnd = 328912
+- 18:38:42.525 DEBUG: GetBrowserWindow(): not found, hwnd = 328912
+- 18:38:42.525 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:38:42.525 DEBUG: Calling CefQuitMessageLoop()
+- 18:38:42.556 INFO: Ended application
+- 18:38:42.556 INFO: --------------------------------------------------------
+- 18:39:48.031 INFO: --------------------------------------------------------
+- 18:39:48.031 INFO: Started application
+- 18:39:48.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:39:48.031 INFO: Log level = DEBUG4
+- 18:39:48.031 INFO: Starting Mongoose 3.9c web server
+- 18:39:48.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:39:48.031 INFO: Index files: index.html,index.php
+- 18:39:48.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:39:48.031 INFO: CGI pattern: **.php$
+- 18:39:48.031 INFO: Hide files patterns: 
+- 18:39:48.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:39:48.094 INFO: Web server url: http://127.0.0.1:3665/
+- 18:39:48.094 INFO: remote_debugging_port = 55256
+- 18:39:48.094 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=55256
+- 18:39:48.140 DEBUG: App::OnContextInitialized()
+- 18:39:48.140 DEBUG: Window max width/height = 1286/680
+- 18:39:48.140 DEBUG: GetBrowserWindow(): not found, hwnd = 853552
+- 18:39:48.140 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:39:48.140 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:39:48.140 DEBUG: StoreBrowserWindow(): hwnd = 853552
+- 18:39:48.172 DEBUG: ClientHandler::OnAfterCreated()
+- 18:39:48.172 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:39:48.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="6168.0.1907044392\408061159" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:39:48.187 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:39:48.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6168.1.1889994185\1200102684" /prefetch:673131151
+- 18:39:48.032 DEBUG: OnBrowserCreated()
+- 18:39:49.905 INFO: GET 200 /
+- 18:39:49.905 INFO: GET 200 /css/grid.css
+- 18:39:49.905 INFO: GET 200 /css/style.css
+- 18:39:49.687 DEBUG: OnContextCreated()
+- 18:39:49.702 DEBUG: OnContextCreated()
+- 18:39:49.952 INFO: GET 404 /images/menu-bullet.png
+- 18:39:49.952 INFO: GET 200 /images/header_bg.jpg
+- 18:39:49.952 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3665/
+- 18:39:54.881 DEBUG: WM_DESTROY
+- 18:39:54.881 DEBUG: RemoveBrowserWindow(): hwnd = 853552
+- 18:39:54.881 INFO: Stopping Mongoose web server
+- 18:39:54.881 DEBUG: Mongoose webserver stopped immediately
+- 18:39:54.881 DEBUG: OnBeforeClose() hwnd=1442728
+- 18:39:54.881 DEBUG: RemoveBrowserWindow(): hwnd = 1442728
+- 18:39:54.881 DEBUG: GetBrowserWindow(): not found, hwnd = 1442728
+- 18:39:54.881 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:39:54.881 DEBUG: Calling CefQuitMessageLoop()
+- 18:39:54.679 DEBUG: OnBrowserDestroyed()
+[0119/183954:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+- 18:39:54.928 INFO: Ended application
+- 18:39:54.928 INFO: --------------------------------------------------------
+- 18:40:55.016 INFO: --------------------------------------------------------
+- 18:40:55.016 INFO: Started application
+- 18:40:55.016 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:40:55.016 INFO: Log level = DEBUG4
+- 18:40:55.016 INFO: Starting Mongoose 3.9c web server
+- 18:40:55.016 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:40:55.016 INFO: Index files: index.html,index.php
+- 18:40:55.016 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:40:55.016 INFO: CGI pattern: **.php$
+- 18:40:55.016 INFO: Hide files patterns: 
+- 18:40:55.016 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:40:55.047 INFO: Web server url: http://127.0.0.1:3673/
+- 18:40:55.047 INFO: remote_debugging_port = 52254
+- 18:40:55.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=52254
+- 18:40:55.078 DEBUG: App::OnContextInitialized()
+- 18:40:55.078 DEBUG: Window max width/height = 1286/680
+- 18:40:55.078 DEBUG: GetBrowserWindow(): not found, hwnd = 592052
+- 18:40:55.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:40:55.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:40:55.078 DEBUG: StoreBrowserWindow(): hwnd = 592052
+- 18:40:55.109 DEBUG: ClientHandler::OnAfterCreated()
+- 18:40:55.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:40:55.125 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:40:55.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="6836.0.1411831709\1365987046" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:40:55.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6836.1.2024007409\134355785" /prefetch:673131151
+- 18:40:55.031 DEBUG: OnBrowserCreated()
+- 18:40:55.047 DEBUG: renderer[1] OnProcessMessageReceived: SetIsFullscreen
+- 18:40:56.265 INFO: GET 200 /css/grid.css
+- 18:40:56.265 INFO: GET 200 /
+- 18:40:56.265 INFO: GET 200 /css/style.css
+- 18:40:56.125 DEBUG: OnContextCreated()
+- 18:40:56.141 DEBUG: OnContextCreated()
+- 18:40:56.312 INFO: GET 404 /images/menu-bullet.png
+- 18:40:56.312 INFO: GET 200 /images/header_bg.jpg
+- 18:40:56.312 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3673/
+- 18:41:32.520 DEBUG: WM_DESTROY
+- 18:41:32.520 DEBUG: RemoveBrowserWindow(): hwnd = 592052
+- 18:41:32.520 INFO: Stopping Mongoose web server
+- 18:41:32.520 DEBUG: Mongoose webserver stopped immediately
+- 18:41:32.520 DEBUG: OnBeforeClose() hwnd=853620
+- 18:41:32.520 DEBUG: RemoveBrowserWindow(): hwnd = 853620
+- 18:41:32.520 DEBUG: GetBrowserWindow(): not found, hwnd = 853620
+- 18:41:32.520 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:41:32.520 DEBUG: Calling CefQuitMessageLoop()
+- 18:42:09.031 INFO: --------------------------------------------------------
+- 18:42:09.031 INFO: Started application
+- 18:42:09.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:42:09.031 INFO: Log level = DEBUG4
+- 18:42:09.031 INFO: Starting Mongoose 3.9c web server
+- 18:42:09.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:42:09.031 INFO: Index files: index.html,index.php
+- 18:42:09.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:42:09.031 INFO: CGI pattern: **.php$
+- 18:42:09.031 INFO: Hide files patterns: 
+- 18:42:09.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:42:09.062 INFO: Web server url: http://127.0.0.1:3682/
+- 18:42:09.062 INFO: remote_debugging_port = 64093
+- 18:42:09.062 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=64093
+- 18:42:09.109 DEBUG: App::OnContextInitialized()
+- 18:42:09.109 DEBUG: Window max width/height = 1286/680
+- 18:42:09.109 DEBUG: Window max size exceeded, new width/height = 900/680
+- 18:42:09.109 DEBUG: GetBrowserWindow(): not found, hwnd = 526922
+- 18:42:09.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:42:09.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:42:09.109 DEBUG: StoreBrowserWindow(): hwnd = 526922
+- 18:42:09.140 DEBUG: ClientHandler::OnAfterCreated()
+- 18:42:09.140 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:42:09.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="5044.0.1004316855\1865830600" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:42:09.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:42:09.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5044.1.532756757\865203976" /prefetch:673131151
+- 18:42:09.015 DEBUG: OnBrowserCreated()
+- 18:42:09.296 INFO: GET 200 /
+- 18:42:09.312 INFO: GET 200 /css/grid.css
+- 18:42:09.109 DEBUG: OnContextCreated()
+- 18:42:09.124 DEBUG: OnContextCreated()
+- 18:42:09.405 INFO: GET 200 /css/style.css
+- 18:42:09.437 INFO: GET 404 /images/menu-bullet.png
+- 18:42:09.437 INFO: GET 200 /images/header_bg.jpg
+- 18:42:09.437 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3682/
+- 18:44:25.579 DEBUG: OnBeforeClose() hwnd=1706294
+- 18:44:25.579 DEBUG: RemoveBrowserWindow(): hwnd = 1706294
+- 18:44:25.579 DEBUG: Calling CefQuitMessageLoop()
+- 18:44:45.031 INFO: --------------------------------------------------------
+- 18:44:45.031 INFO: Started application
+- 18:44:45.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:44:45.031 INFO: Log level = DEBUG4
+- 18:44:45.031 INFO: Starting Mongoose 3.9c web server
+- 18:44:45.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:44:45.031 INFO: Index files: index.html,index.php
+- 18:44:45.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:44:45.031 INFO: CGI pattern: **.php$
+- 18:44:45.031 INFO: Hide files patterns: 
+- 18:44:45.046 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:44:45.062 INFO: Web server url: http://127.0.0.1:3706/
+- 18:44:45.062 INFO: remote_debugging_port = 49641
+- 18:44:45.062 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=49641
+- 18:44:45.109 DEBUG: App::OnContextInitialized()
+- 18:44:45.109 DEBUG: Window max width/height = 1286/680
+- 18:44:45.109 DEBUG: Window max size exceeded, new width/height = 900/680
+- 18:44:45.109 DEBUG: GetBrowserWindow(): not found, hwnd = 1443468
+- 18:44:45.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:44:45.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:44:45.109 DEBUG: StoreBrowserWindow(): hwnd = 1443468
+- 18:44:45.124 DEBUG: ClientHandler::OnAfterCreated()
+- 18:44:45.124 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:44:45.140 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:44:45.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="4432.0.780540694\1138527507" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:44:45.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4432.1.806451685\1830074859" /prefetch:673131151
+- 18:44:45.031 DEBUG: OnBrowserCreated()
+- 18:44:45.280 INFO: GET 200 /
+- 18:44:45.280 INFO: GET 200 /css/grid.css
+- 18:44:45.280 INFO: GET 200 /css/style.css
+- 18:44:45.125 DEBUG: OnContextCreated()
+- 18:44:45.141 DEBUG: OnContextCreated()
+- 18:44:45.327 INFO: GET 404 /images/menu-bullet.png
+- 18:44:45.327 INFO: GET 200 /images/header_bg.jpg
+- 18:44:45.343 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3706/
+- 18:44:48.042 DEBUG: WM_DESTROY
+- 18:44:48.042 DEBUG: RemoveBrowserWindow(): hwnd = 1443468
+- 18:44:48.042 INFO: Stopping Mongoose web server
+- 18:44:48.042 DEBUG: Mongoose webserver stopped immediately
+- 18:44:48.042 DEBUG: OnBeforeClose() hwnd=1705520
+- 18:44:48.042 DEBUG: RemoveBrowserWindow(): hwnd = 1705520
+- 18:44:48.042 DEBUG: GetBrowserWindow(): not found, hwnd = 1705520
+- 18:44:48.042 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:44:48.042 DEBUG: Calling CefQuitMessageLoop()
+- 18:44:48.871 DEBUG: OnBrowserDestroyed()
+[0119/184448:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+- 18:44:48.089 INFO: Ended application
+- 18:44:48.089 INFO: --------------------------------------------------------
+- 18:45:39.031 INFO: --------------------------------------------------------
+- 18:45:39.031 INFO: Started application
+- 18:45:39.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:45:39.031 INFO: Log level = DEBUG4
+- 18:45:39.031 INFO: Starting Mongoose 3.9c web server
+- 18:45:39.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:45:39.031 INFO: Index files: index.html,index.php
+- 18:45:39.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:45:39.031 INFO: CGI pattern: **.php$
+- 18:45:39.031 INFO: Hide files patterns: 
+- 18:45:39.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:45:39.031 INFO: Web server url: http://127.0.0.1:3713/
+- 18:45:39.047 INFO: remote_debugging_port = 57955
+- 18:45:39.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=57955
+- 18:45:39.078 DEBUG: App::OnContextInitialized()
+- 18:45:39.078 DEBUG: Window max width/height = 1286/680
+- 18:45:39.078 DEBUG: Window max size exceeded, new width/height = 900/680
+- 18:45:39.078 DEBUG: GetBrowserWindow(): not found, hwnd = 1442830
+- 18:45:39.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:45:39.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:45:39.093 DEBUG: StoreBrowserWindow(): hwnd = 1442830
+- 18:45:39.109 DEBUG: ClientHandler::OnAfterCreated()
+- 18:45:39.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:45:39.125 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:45:39.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="4388.0.1880578928\1063660192" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:45:39.015 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4388.1.1529503273\1995254281" /prefetch:673131151
+- 18:45:39.031 DEBUG: OnBrowserCreated()
+- 18:45:39.265 INFO: GET 200 /
+- 18:45:39.281 INFO: GET 200 /css/grid.css
+- 18:45:39.281 INFO: GET 200 /css/style.css
+- 18:45:39.125 DEBUG: OnContextCreated()
+- 18:45:39.140 DEBUG: OnContextCreated()
+- 18:45:39.312 INFO: GET 404 /images/menu-bullet.png
+- 18:45:39.327 INFO: GET 200 /images/header_bg.jpg
+- 18:45:39.327 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3713/
+- 18:46:12.119 DEBUG: F5 pressed, reloading page
+- 18:46:12.119 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:3713/
+- 18:46:12.025 DEBUG: OnContextCreated()
+- 18:46:12.025 DEBUG: OnContextCreated()
+- 18:46:12.181 INFO: GET 200 /css/style.css
+- 18:46:12.181 INFO: GET 200 /css/grid.css
+- 18:46:12.197 INFO: GET 200 /
+- 18:46:12.306 DEBUG: F5 pressed, reloading page
+- 18:46:12.384 INFO: GET 200 /
+- 18:46:12.228 DEBUG: OnContextCreated()
+- 18:46:12.384 INFO: GET 200 /css/grid.css
+- 18:46:12.228 DEBUG: OnContextCreated()
+- 18:46:12.384 INFO: GET 200 /css/style.css
+- 18:46:12.431 DEBUG: F5 pressed, reloading page
+- 18:46:13.478 INFO: GET 200 /
+- 18:46:13.322 DEBUG: OnContextCreated()
+- 18:46:13.322 DEBUG: OnContextCreated()
+- 18:46:13.493 INFO: GET 200 /css/grid.css
+- 18:46:13.493 INFO: GET 200 /css/style.css
+- 18:46:13.587 DEBUG: F5 pressed, reloading page
+- 18:46:13.649 INFO: GET 200 /
+- 18:46:13.493 DEBUG: OnContextCreated()
+- 18:46:13.665 INFO: GET 200 /css/grid.css
+- 18:46:13.509 DEBUG: OnContextCreated()
+- 18:46:13.665 INFO: GET 200 /css/style.css
+- 18:46:13.914 INFO: GET 404 /images/menu-bullet.png
+- 18:46:13.914 INFO: GET 200 /images/header_bg.jpg
+- 18:46:13.914 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3713/
+- 18:46:17.924 DEBUG: WM_DESTROY
+- 18:46:17.924 DEBUG: RemoveBrowserWindow(): hwnd = 1442830
+- 18:46:17.924 INFO: Stopping Mongoose web server
+- 18:46:17.924 DEBUG: Mongoose webserver stopped immediately
+- 18:46:17.924 DEBUG: OnBeforeClose() hwnd=1181812
+- 18:46:17.924 DEBUG: RemoveBrowserWindow(): hwnd = 1181812
+- 18:46:17.924 DEBUG: GetBrowserWindow(): not found, hwnd = 1181812
+- 18:46:17.939 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:46:17.939 DEBUG: Calling CefQuitMessageLoop()
+[0119/184617:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 18:46:17.986 INFO: Ended application
+- 18:46:17.986 INFO: --------------------------------------------------------
+- 18:46:28.032 INFO: --------------------------------------------------------
+- 18:46:28.032 INFO: Started application
+- 18:46:28.032 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 18:46:28.032 INFO: Log level = DEBUG4
+- 18:46:28.032 INFO: Starting Mongoose 3.9c web server
+- 18:46:28.032 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 18:46:28.032 INFO: Index files: index.html,index.php
+- 18:46:28.032 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 18:46:28.032 INFO: CGI pattern: **.php$
+- 18:46:28.032 INFO: Hide files patterns: 
+- 18:46:28.032 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 18:46:28.047 INFO: Web server url: http://127.0.0.1:3747/
+- 18:46:28.047 INFO: remote_debugging_port = 64690
+- 18:46:28.047 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=64690
+- 18:46:28.094 DEBUG: App::OnContextInitialized()
+- 18:46:28.094 DEBUG: Window max width/height = 1286/680
+- 18:46:28.094 DEBUG: Window max size exceeded, new width/height = 900/680
+- 18:46:28.094 DEBUG: GetBrowserWindow(): not found, hwnd = 1902392
+- 18:46:28.094 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 18:46:28.094 DEBUG: BrowserWindow::CreateBrowserControl()
+- 18:46:28.094 DEBUG: StoreBrowserWindow(): hwnd = 1902392
+- 18:46:28.125 DEBUG: ClientHandler::OnAfterCreated()
+- 18:46:28.125 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 18:46:28.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 18:46:28.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="6672.0.1560965789\857339548" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 18:46:28.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6672.1.30075118\1713117319" /prefetch:673131151
+- 18:46:28.031 DEBUG: OnBrowserCreated()
+- 18:46:29.297 INFO: GET 200 /css/grid.css
+- 18:46:29.297 INFO: GET 200 /
+- 18:46:29.297 INFO: GET 200 /css/style.css
+- 18:46:29.125 DEBUG: OnContextCreated()
+- 18:46:29.156 DEBUG: OnContextCreated()
+- 18:46:29.344 INFO: GET 404 /images/menu-bullet.png
+- 18:46:29.344 INFO: GET 200 /images/header_bg.jpg
+- 18:46:29.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:3747/
+- 18:47:21.339 DEBUG: WM_DESTROY
+- 18:47:21.339 DEBUG: RemoveBrowserWindow(): hwnd = 1902392
+- 18:47:21.339 INFO: Stopping Mongoose web server
+- 18:47:21.339 DEBUG: Mongoose webserver stopped immediately
+- 18:47:21.339 DEBUG: OnBeforeClose() hwnd=1639516
+- 18:47:21.339 DEBUG: RemoveBrowserWindow(): hwnd = 1639516
+- 18:47:21.339 DEBUG: GetBrowserWindow(): not found, hwnd = 1639516
+- 18:47:21.339 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 18:47:21.339 DEBUG: Calling CefQuitMessageLoop()
+- 18:47:21.385 INFO: Ended application
+- 18:47:21.385 INFO: --------------------------------------------------------
+- 19:10:31.031 INFO: --------------------------------------------------------
+- 19:10:31.047 INFO: Started application
+- 19:10:31.047 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 19:10:31.047 INFO: Log level = DEBUG4
+- 19:10:31.047 INFO: Starting Mongoose 3.9c web server
+- 19:10:31.047 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 19:10:31.047 INFO: Index files: index.html,index.php
+- 19:10:31.047 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 19:10:31.047 INFO: CGI pattern: **.php$
+- 19:10:31.047 INFO: Hide files patterns: 
+- 19:10:31.047 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 19:10:31.063 INFO: Web server url: http://127.0.0.1:4286/
+- 19:10:31.063 INFO: remote_debugging_port = 63030
+- 19:10:31.063 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=63030
+- 19:10:31.109 DEBUG: App::OnContextInitialized()
+- 19:10:31.109 DEBUG: Window max width/height = 1286/680
+- 19:10:31.109 DEBUG: Window max size exceeded, new width/height = 900/680
+- 19:10:31.109 DEBUG: GetBrowserWindow(): not found, hwnd = 853072
+- 19:10:31.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:10:31.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:10:31.109 DEBUG: StoreBrowserWindow(): hwnd = 853072
+- 19:10:31.141 DEBUG: ClientHandler::OnAfterCreated()
+- 19:10:31.141 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:10:31.015 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="2904.0.1725556352\2126872318" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 19:10:31.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:10:31.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="2904.1.1614042538\1647290088" /prefetch:673131151
+- 19:10:31.078 DEBUG: OnBrowserCreated()
+- 19:10:32.108 INFO: GET 200 /
+- 19:10:32.921 DEBUG: OnContextCreated()
+- 19:10:32.123 INFO: GET 200 /css/grid.css
+- 19:10:32.123 INFO: GET 200 /css/style.css
+- 19:10:32.936 DEBUG: OnContextCreated()
+- 19:10:32.155 INFO: GET 404 /images/menu-bullet.png
+- 19:10:32.170 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4286/
+- 19:10:32.170 INFO: GET 200 /images/header_bg.jpg
+- 19:10:34.573 DEBUG: WM_DESTROY
+- 19:10:34.573 DEBUG: RemoveBrowserWindow(): hwnd = 853072
+- 19:10:34.573 INFO: Stopping Mongoose web server
+- 19:10:34.573 DEBUG: Mongoose webserver stopped immediately
+- 19:10:34.573 DEBUG: OnBeforeClose() hwnd=592442
+- 19:10:34.573 DEBUG: RemoveBrowserWindow(): hwnd = 592442
+- 19:10:34.573 DEBUG: GetBrowserWindow(): not found, hwnd = 592442
+- 19:10:34.573 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:10:34.573 DEBUG: Calling CefQuitMessageLoop()
+[0119/191034:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+- 19:10:34.401 DEBUG: OnBrowserDestroyed()
+- 19:10:34.619 INFO: Ended application
+- 19:10:34.619 INFO: --------------------------------------------------------
+- 19:14:12.031 INFO: --------------------------------------------------------
+- 19:14:12.031 INFO: Started application
+- 19:14:12.031 INFO: Logging to: C:\Users\khan\Desktop\Github\myapp\debug.log
+- 19:14:12.031 INFO: Log level = DEBUG4
+- 19:14:12.031 INFO: Starting Mongoose 3.9c web server
+- 19:14:12.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\myapp\www
+- 19:14:12.031 INFO: Index files: index.html,index.php
+- 19:14:12.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\myapp\php\php-cgi.exe
+- 19:14:12.031 INFO: CGI pattern: **.php$
+- 19:14:12.031 INFO: Hide files patterns: 
+- 19:14:12.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 19:14:12.031 INFO: Web server url: http://127.0.0.1:4421/
+- 19:14:12.046 INFO: remote_debugging_port = 52366
+- 19:14:12.046 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --remote-debugging-port=52366
+- 19:14:12.093 DEBUG: App::OnContextInitialized()
+- 19:14:12.093 DEBUG: Window max width/height = 1286/680
+- 19:14:12.093 DEBUG: Window max size exceeded, new width/height = 900/680
+- 19:14:12.093 DEBUG: GetBrowserWindow(): not found, hwnd = 656890
+- 19:14:12.093 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:14:12.093 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:14:12.093 DEBUG: StoreBrowserWindow(): hwnd = 656890
+- 19:14:12.109 DEBUG: ClientHandler::OnAfterCreated()
+- 19:14:12.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:14:12.124 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:14:12.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=gpu-process --channel="5172.0.710929563\786905830" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" /prefetch:822062411
+- 19:14:12.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\myapp\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\myapp\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="5172.1.2068062728\1127480181" /prefetch:673131151
+- 19:14:13.031 DEBUG: OnBrowserCreated()
+- 19:14:13.592 INFO: GET 200 /
+- 19:14:13.436 DEBUG: OnContextCreated()
+- 19:14:13.608 INFO: GET 200 /css/grid.css
+- 19:14:13.608 INFO: GET 200 /css/style.css
+- 19:14:13.468 DEBUG: OnContextCreated()
+- 19:14:14.201 INFO: GET 404 /images/menu-bullet.png
+- 19:14:14.201 INFO: GET 200 /images/header_bg.jpg
+- 19:14:14.216 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:4421/
+- 19:14:17.680 DEBUG: WM_DESTROY
+- 19:14:17.680 DEBUG: RemoveBrowserWindow(): hwnd = 656890
+- 19:14:17.680 INFO: Stopping Mongoose web server
+- 19:14:17.680 DEBUG: Mongoose webserver stopped immediately
+- 19:14:17.680 DEBUG: OnBeforeClose() hwnd=2819448
+- 19:14:17.680 DEBUG: RemoveBrowserWindow(): hwnd = 2819448
+- 19:14:17.680 DEBUG: GetBrowserWindow(): not found, hwnd = 2819448
+- 19:14:17.680 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:14:17.680 DEBUG: Calling CefQuitMessageLoop()
+- 19:14:17.539 DEBUG: OnBrowserDestroyed()
+- 19:14:17.804 INFO: Ended application
+- 19:14:17.804 INFO: --------------------------------------------------------
+- 20:39:05.078 INFO: --------------------------------------------------------
+- 20:39:05.094 INFO: Started application
+- 20:39:05.094 INFO: Logging to: C:\Users\khan\Desktop\Github\rkphpdsk\debug.log
+- 20:39:05.094 INFO: Log level = DEBUG4
+- 20:39:05.094 INFO: Starting Mongoose 3.9c web server
+- 20:39:05.094 INFO: WWW directory: C:\Users\khan\Desktop\Github\rkphpdsk\rkcode
+- 20:39:05.094 INFO: Index files: index.html,index.php
+- 20:39:05.094 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\rkphpdsk\php\php-cgi.exe
+- 20:39:05.094 INFO: CGI pattern: **.php$
+- 20:39:05.094 INFO: Hide files patterns: 
+- 20:39:05.094 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:39:05.109 INFO: Web server url: http://127.0.0.1:5331/
+- 20:39:05.109 INFO: remote_debugging_port = 53984
+- 20:39:05.109 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\rkphpdsk\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" --remote-debugging-port=53984
+- 20:39:05.219 DEBUG: App::OnContextInitialized()
+- 20:39:05.219 DEBUG: Window max width/height = 1286/680
+- 20:39:05.219 DEBUG: Window max size exceeded, new width/height = 900/680
+- 20:39:05.219 DEBUG: GetBrowserWindow(): not found, hwnd = 2622140
+- 20:39:05.219 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:39:05.219 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:39:05.219 DEBUG: StoreBrowserWindow(): hwnd = 2622140
+- 20:39:06.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\rkphpdsk\rkphpdsk.exe" --type=gpu-process --channel="4220.0.1136028848\2074789368" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" /prefetch:822062411
+- 20:39:06.234 DEBUG: ClientHandler::OnAfterCreated()
+- 20:39:06.234 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:39:06.250 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:39:06.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\rkphpdsk\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="4220.1.302944848\1324505220" /prefetch:673131151
+- 20:39:06.016 DEBUG: OnBrowserCreated()
+- 20:39:06.390 INFO: GET 404 /
+- 20:39:06.640 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:5331/
+- 20:39:07.013 DEBUG: WM_DESTROY
+- 20:39:07.028 DEBUG: RemoveBrowserWindow(): hwnd = 2622140
+- 20:39:07.028 INFO: Stopping Mongoose web server
+- 20:39:07.028 DEBUG: Mongoose webserver stopped immediately
+- 20:39:07.028 DEBUG: OnBeforeClose() hwnd=1247334
+- 20:39:07.028 DEBUG: RemoveBrowserWindow(): hwnd = 1247334
+- 20:39:07.028 DEBUG: GetBrowserWindow(): not found, hwnd = 1247334
+- 20:39:07.028 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:39:07.028 DEBUG: Calling CefQuitMessageLoop()
+- 20:39:07.059 INFO: Ended application
+- 20:39:07.059 INFO: --------------------------------------------------------
+- 20:39:17.031 INFO: --------------------------------------------------------
+- 20:39:17.031 INFO: Started application
+- 20:39:17.031 INFO: Logging to: C:\Users\khan\Desktop\Github\rkphpdsk\debug.log
+- 20:39:17.031 INFO: Log level = DEBUG4
+- 20:39:17.031 INFO: Starting Mongoose 3.9c web server
+- 20:39:17.031 INFO: WWW directory: C:\Users\khan\Desktop\Github\rkphpdsk\rkcode
+- 20:39:17.031 INFO: Index files: index.html,index.php
+- 20:39:17.031 INFO: CGI interpreter: C:\Users\khan\Desktop\Github\rkphpdsk\php\php-cgi.exe
+- 20:39:17.031 INFO: CGI pattern: **.php$
+- 20:39:17.031 INFO: Hide files patterns: 
+- 20:39:17.031 INFO: CGI environment variables set: TMP=C:\Users\khan\AppData\Local\Temp\,TEMP=C:\Users\khan\AppData\Local\Temp\,TMPDIR=C:\Users\khan\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 20:39:17.046 INFO: Web server url: http://127.0.0.1:5333/
+- 20:39:17.046 INFO: remote_debugging_port = 51039
+- 20:39:17.046 DEBUG: Command line string for the browser process: "C:\Users\khan\Desktop\Github\rkphpdsk\rkphpdsk.exe" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" --remote-debugging-port=51039
+- 20:39:17.078 DEBUG: App::OnContextInitialized()
+- 20:39:17.078 DEBUG: Window max width/height = 1286/680
+- 20:39:17.078 DEBUG: Window max size exceeded, new width/height = 900/680
+- 20:39:17.078 DEBUG: GetBrowserWindow(): not found, hwnd = 2885390
+- 20:39:17.078 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:39:17.078 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:39:17.078 DEBUG: StoreBrowserWindow(): hwnd = 2885390
+- 20:39:17.109 DEBUG: ClientHandler::OnAfterCreated()
+- 20:39:17.109 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:39:17.000 DEBUG: Command line string for the gpu-process process: "C:\Users\khan\Desktop\Github\rkphpdsk\rkphpdsk.exe" --type=gpu-process --channel="6564.0.1867245767\76995184" --no-sandbox --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" --disable-d3d11 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,8,23,51 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0042 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.2141 --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" /prefetch:822062411
+- 20:39:17.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:39:17.000 DEBUG: Command line string for the renderer process: "C:\Users\khan\Desktop\Github\rkphpdsk\rkphpdsk.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\khan\Desktop\Github\rkphpdsk\debug.log" --device-scale-factor=1 --num-raster-threads=2 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --disable-accelerated-video-decode --channel="6564.1.821553086\1328487537" /prefetch:673131151
+- 20:39:17.016 DEBUG: OnBrowserCreated()
+- 20:39:18.858 INFO: GET 200 /
+- 20:39:18.858 INFO: GET 200 /css/grid.css
+- 20:39:18.858 INFO: GET 200 /css/style.css
+- 20:39:18.718 DEBUG: OnContextCreated()
+- 20:39:18.764 DEBUG: OnContextCreated()
+- 20:39:18.951 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:5333/
+- 20:39:18.967 INFO: GET 404 /images/menu-bullet.png
+- 20:39:18.998 INFO: GET 200 /images/header_bg.jpg
+- 20:39:20.964 DEBUG: WM_DESTROY
+- 20:39:20.964 DEBUG: RemoveBrowserWindow(): hwnd = 2885390
+- 20:39:20.964 INFO: Stopping Mongoose web server
+- 20:39:20.964 DEBUG: Mongoose webserver stopped immediately
+- 20:39:20.964 DEBUG: OnBeforeClose() hwnd=2033330
+- 20:39:20.964 DEBUG: RemoveBrowserWindow(): hwnd = 2033330
+- 20:39:20.964 DEBUG: GetBrowserWindow(): not found, hwnd = 2033330
+- 20:39:20.964 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:39:20.964 DEBUG: Calling CefQuitMessageLoop()
+- 20:39:20.995 INFO: Ended application
+- 20:39:20.995 INFO: --------------------------------------------------------
