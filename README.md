@@ -49,4 +49,4 @@ Create a simple file and name it `index.php` with the following content:
 now move your `index.php` file in the `rkcode` (if you didn't create it inside `rkcode`) folder and launch PHP Desktop.
 then you'll show your code application ! .
 
-Then final software for `.exe` file in your operating system
+Then final software for `.exe` file in your operating system need to install `inno` software then configuration for desktop !
