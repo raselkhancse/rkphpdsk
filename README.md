@@ -8,4 +8,4 @@ The development workflow you are used to while creating
  web applications remains the same. There is no new
  API/framework to learn. The process of turning an 
 existing website into a desktop application is basically 
-a matter of copying it to the "rkphpdsk/rkcode/" directory.
+a matter of copying it to the `rkphpdsk/rkcode/` directory.
